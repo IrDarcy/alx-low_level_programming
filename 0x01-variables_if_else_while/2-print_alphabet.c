@@ -3,9 +3,9 @@
 /**
  * main - Entry point
  *
- * Return :Always 0 (success)
+ * Return: Always 0 (Success)
  */
-int main()
+int main(void)
 {
 char x;
 for (x = 'a'; x <= 'z'; x++)
