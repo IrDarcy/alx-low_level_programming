@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * *_strcat - concatenates
+ * *_strcat - concatenate
  * @dest: string appended
  * @src: string concantenated
  * Retrun: void
