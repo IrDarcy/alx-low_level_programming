@@ -8,7 +8,7 @@
  * Return: void
  */
 
-void print _diagsums(int *a, int size)
+void print_diagsums(int *a, int size)
 {
 int i, size1;
 unsigned int sumDiag1, sumDiag2;
@@ -24,5 +24,5 @@ for (i = (size - 1); i < size1; i = i + (size - 1))
 {
 sumDiag2 = sumDiag2 + a[i];
 }
-printf("%d, %\n", sumDiag1, sumDiag2);
+printf("%d, %d\n", sumDiag1, sumDiag2);
 }
