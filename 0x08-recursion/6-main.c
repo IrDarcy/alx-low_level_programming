@@ -2,7 +2,7 @@
 #include <stdio.h>
 
 /**
- * main - check the code
+ * is_prime_number - check the code
  *
  * Return: Always 0.
  */
