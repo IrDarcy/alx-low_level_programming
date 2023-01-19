@@ -3,10 +3,10 @@
 
 /**
  * main - program that perfoms simple operations
- * @argc: number of argument 
+ * @argc: number of argument
  * @argv: array of arguments
  *
- * Return: always 0 
+ * Return: always 0
  */
 int main(int argc, char *argv[])
 {
